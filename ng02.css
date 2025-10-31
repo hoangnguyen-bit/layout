@@ -1,0 +1,114 @@
+
+
+body{
+	background-color: #1e1e1e;
+}
+
+.block1{
+	position: absolute;
+	background-color: #ff5252;
+	top: 15px;
+	left: 70px;
+	right: 82%;
+	bottom: 75%;
+}
+
+.block2{
+	position: absolute;
+	background-color: #40c4ff;
+	left: 195px;
+	top: 85px;
+	bottom: 62%;
+	right: 73%;
+}
+.block3{
+	position: absolute;
+	background-color: #ffeb3b;
+	right: 78%;
+	top: 205px;
+	bottom: 49%;
+	left: 140px;
+}
+
+.block4{
+	position: absolute;
+	background-color: #4caf50;
+	top: 290px;
+	bottom: 30%;
+	right: 65%;
+	left: 282px;
+}
+
+.block5{
+	position: absolute;
+	background-color: #9c27b0;
+	top: 60%;
+	bottom: 100px;
+	right: 70%;
+	left: 220px;
+}
+
+.block6{
+	position: absolute;
+	background-color: #ff9800;
+	top: 195px;
+	bottom: 50%;
+	right: 42%;
+	left: 49%;
+}
+
+.block7{
+	position: absolute;
+	background-color: #00bcd4;
+	top: 300px;
+	bottom: 37%;
+	right: 45%;
+	left: 46%;
+}
+
+.block8{
+	position: absolute;
+	background-color: #40e0d0;
+	top: 15px;
+	bottom: 75%;
+	right: 55px;
+	left: 84%;
+}
+
+.block9{
+	position: absolute;
+	background-color: #e91e63;
+	top: 100px;
+	bottom: 63%;
+	right: 206px;
+	left: 73%;
+}
+
+.block10{
+	position: absolute;
+	background-color: #009688;
+	top: 200px;
+	bottom: 50%;
+	right: 125px;
+	left: 80%;
+}
+ .block11{
+ 	position: absolute;
+ 	background-color: #ff7043;
+ 	top: 300px;
+ 	bottom: 32%;
+ 	right: 255px;
+ 	left: 69%;
+ }
+
+ .block12{
+ 	position: absolute;
+ 	background-color: #3f51b5;
+ 	top: 400px;
+ 	bottom: 16%;
+ 	right: 170px;
+ 	left: 75%;
+ }
+
+
+
